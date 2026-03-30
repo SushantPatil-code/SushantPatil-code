@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushant Patil  
 
-### 🚀 Aspiring Java Developer | DSA Enthusiast | Android Learner  
+### 🚀 Aspiring Java Developer | DSA Enthusiast | 
 
 ---
 
