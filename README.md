@@ -35,13 +35,6 @@ Spring Boot | Hibernate | Git | GitHub
 
 ---
 
-## 📊 GitHub Stats  
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushantPatil-code&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SushantPatil-code&layout=compact)
-
----
-
 ## 📫 Connect with Me  
 🔗 LinkedIn: https://www.linkedin.com/in/sushant-patil-511396257/  
 
