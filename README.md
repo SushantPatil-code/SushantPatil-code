@@ -8,6 +8,7 @@
 🎓 Computer Science Student  
 ☕ Passionate about Java & Data Structures and Algorithms  
 📱 Exploring new technologies  
+🔧 Skilled in using Git and GitHub for version control and project management  
 🚀 Love building real-world, problem-solving projects  
 
 ---
@@ -30,12 +31,19 @@ HTML | CSS | JavaScript
 Data Structures & Algorithms | OOP  
 
 ### 🚀 Frameworks & Tools  
-Spring Boot | Hibernate  
+Spring Boot | Hibernate | Git | GitHub  
+
+---
+
+## 📊 GitHub Stats  
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushantPatil-code&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SushantPatil-code&layout=compact)
 
 ---
 
 ## 📫 Connect with Me  
-🔗 LinkedIn: https://www.linkedin.com/in/sushant-patil-511396257/
+🔗 LinkedIn: https://www.linkedin.com/in/sushant-patil-511396257/  
 
 ---
 
