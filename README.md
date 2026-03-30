@@ -35,7 +35,7 @@ Spring Boot | Hibernate
 ---
 
 ## 📊 GitHub Stats  
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Sushant's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true](https://github.com/SushantPatil-code))
 
 ---
 
