@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sushant Patil  
 
-### 🚀 Aspiring Java Developer | DSA Enthusiast | 
+### 🚀 Aspiring Java Developer | DSA Enthusiast | Android Learner  
 
 ---
 
 ## 💻 About Me  
 🎓 Computer Science Student  
 ☕ Passionate about Java & Data Structures and Algorithms  
-📱 Exploring New Technology  
+📱 Exploring new technologies  
 🚀 Love building real-world, problem-solving projects  
 
 ---
@@ -35,12 +35,14 @@ Spring Boot | Hibernate
 ---
 
 ## 📊 GitHub Stats  
-![Sushant's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true])
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushantPatil-code&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SushantPatil-code&layout=compact)
 
 ---
 
 ## 📫 Connect with Me  
-🔗 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/sushant-patil-511396257/)  
+🔗 LinkedIn: https://www.linkedin.com/in/sushant-patil-511396257/
 
 ---
 
