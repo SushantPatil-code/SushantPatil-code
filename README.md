@@ -7,7 +7,7 @@
 ## 💻 About Me  
 🎓 Computer Science Student  
 ☕ Passionate about Java & Data Structures and Algorithms  
-📱 Exploring Android App Development  
+📱 Exploring New Technology  
 🚀 Love building real-world, problem-solving projects  
 
 ---
@@ -35,7 +35,7 @@ Spring Boot | Hibernate
 ---
 
 ## 📊 GitHub Stats  
-![Sushant's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true](https://github.com/SushantPatil-code))
+![Sushant's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true])
 
 ---
 
