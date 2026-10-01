@@ -13,7 +13,8 @@
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects 
+🔹 **WatchStore** –  E-Commerce Platform 
 🔹 **ImagChat** – A unique platform to share messages through images  
 🔹 **Digital Cafe** – A web-based system for seamless cafe ordering  
 
