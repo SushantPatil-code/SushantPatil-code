@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Sushant Patil  
 
-### 🚀 Software Engineer | DSA Enthusiast | Android Learner  
+### 🚀 Software Engineer | DSA Enthusiast | Spring Boot Learner  
 
 ---
 
 ## 💻 About Me  
-🎓 Computer Science Student  
+🎓 Computer Science Graduate 
 ☕ Passionate about Java & Data Structures and Algorithms  
 📱 Exploring new technologies  
 🔧 Skilled in using Git and GitHub for version control and project management  
