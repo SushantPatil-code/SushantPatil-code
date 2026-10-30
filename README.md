@@ -1,44 +1,18 @@
-# 👋 Hi, I'm Sushant Patil  
+# 💫 About Me:
+🔭 I’m currently working on **Java Full Stack Development and Spring Boot Projects**<br><br>👯 I’m looking to collaborate on **Java, Spring Boot, REST API and Open-Source Projects**<br><br>🤝 I’m looking for help with **Advanced Spring Boot, Microservices and System Design**<br><br>🌱 I’m currently learning **Advanced Java, Spring Security, Hibernate and Data Structures & Algorithms**<br><br>💬 Ask me about **Java, Spring Boot, Hibernate, MySQL, REST APIs and DSA**<br><br>⚡ Fun fact: **I love solving coding problems, playing cricket and exploring new technologies!**
 
-### 🚀 Software Engineer | DSA Enthusiast | Spring Boot Learner  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/patil_sushant0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sushant-patil-511396257) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sushant_PatiI) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sushant Tanaji Patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2004sushantpatil@gmail.com) 
 
-## 💻 About Me  
-🎓 Computer Science Graduate 
-☕ Passionate about Java & Data Structures and Algorithms  
-📱 Exploring new technologies  
-🔧 Skilled in using Git and GitHub for version control and project management  
-🚀 Love building real-world, problem-solving projects  
-
----
-
-## 🚀 Projects 
-🔹 **WatchStore** –  E-Commerce Platform 
-🔹 **ImagChat** – A unique platform to share messages through images  
-🔹 **Digital Cafe** – A web-based system for seamless cafe ordering  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SushantPatil-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SushantPatil-code&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SushantPatil-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SushantPatil-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack  
-
-### 👨‍💻 Languages  
-Java | C++ | SQL  
-
-### 🌐 Web Technologies  
-HTML | CSS | JavaScript  
-
-### ⚙️ Concepts  
-Data Structures & Algorithms | OOP  
-
-### 🚀 Frameworks & Tools  
-Spring Boot | Hibernate | Git | GitHub  
-
----
-
-## 📫 Connect with Me  
-🔗 LinkedIn: https://www.linkedin.com/in/sushant-patil-511396257/  
-
----
-
-⭐ *"Striving to turn ideas into impactful software solutions"*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
