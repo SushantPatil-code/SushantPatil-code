@@ -23,17 +23,21 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SushantPatil-code&color=11d452&style=for-the-badge" alt="Visitor Badge" /></p>
 
-<p align="center">🔭 I’m currently working on Java Full Stack Development and Spring Boot Projects
+<p align="center">
 
-👯 I’m looking to collaborate on Java, Spring Boot, REST API and Open-Source Projects
-
-🤝 I’m looking for help with Advanced Spring Boot, Microservices and System Design
-
-🌱 I’m currently learning Advanced Java, Spring Security, Hibernate and Data Structures & Algorithms
-
-💬 Ask me about Java, Spring Boot, Hibernate, MySQL, REST APIs and DSA
-
-⚡ Fun fact: I love solving coding problems, playing cricket and exploring new technologies!</p>
+<p align="center">
+  🔭 I’m currently working on Java Full Stack Development and Spring Boot Projects
+  <br><br>
+  👯 I’m looking to collaborate on Java, Spring Boot, REST API and Open-Source Projects
+  <br><br>
+  🤝 I’m looking for help with Advanced Spring Boot, Microservices and System Design
+  <br><br>
+  🌱 I’m currently learning Advanced Java, Spring Security, Hibernate and Data Structures & Algorithms
+  <br><br>
+  💬 Ask me about Java, Spring Boot, Hibernate, MySQL, REST APIs and DSA
+  <br><br>
+  ⚡ Fun fact: I love solving coding problems, playing cricket and exploring new technologies!
+</p>
 
 <h3 align="center">✨ My Toolbox ✨</h3>
 <p align="center">
