@@ -2,12 +2,23 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=11D452&center=true&vCenter=true&width=480&lines=Java%20Developer;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
+ 
 <p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/SushantPatil-code)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/https://www.linkedin.com/in/sushant-patil-511396257/)
-[<img src="https://img.shields.io/badge/Twitter-102216?style=for-the-badge&logo=x&logoColor=11d452"/>](https://twitter.com/https://x.com/Sushant_PatiI)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:2004sushantpatil@gmail.com)
-[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/https://www.instagram.com/patil_sushant0/)
+  <a href="https://github.com/SushantPatil-code">
+    <img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452" />
+  </a>
+  <a href="https://linkedin.com/in/sushant-patil-511396257">
+    <img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452" />
+  </a>
+  <a href="https://x.com/Sushant_PatiI">
+    <img src="https://img.shields.io/badge/Twitter-102216?style=for-the-badge&logo=x&logoColor=11d452" />
+  </a>
+  <a href="mailto:2004sushantpatil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452" />
+  </a>
+  <a href="https://instagram.com/patil_sushant0/">
+    <img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452" />
+  </a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SushantPatil-code&color=11d452&style=for-the-badge" alt="Visitor Badge" /></p>
